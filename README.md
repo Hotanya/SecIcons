@@ -11,13 +11,13 @@ Embed the icon into your website/portfolio/app etc using your prefered method:
  HTML:
  
  ```
- <img src= 'https://github.com/Hotanya/SecIcons/logo-you-want.svg' width="40" height="40"/>
+ <img src= 'https://github.com/Hotanya/SecIcons/blob/main/icons/logo-you-want.svg' width="40" height="40"/>
 ```
 
  Markdown:
  
  ```
- ![](https://github.com/Hotanya/SecIcons/logo-you-want.svg)
+ ![](https://github.com/Hotanya/SecIcons/blob/main/icons/logo-you-want.svg)
  ```
 
 ## Plan
